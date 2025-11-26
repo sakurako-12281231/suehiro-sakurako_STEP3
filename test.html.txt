@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" concent="width=device-width, initial-scale=1">
+</head>
+<body>
+
+<h2>世界一甘いお店</h2>
+
+<ul>
+   <li>トップ</li>
+   <li>新着情報</li>
+   <li>おすすめスイーツ</li>
+   <li>お問い合わせ</li>
+</ul>
+
+
+</body>
+</html>
+
