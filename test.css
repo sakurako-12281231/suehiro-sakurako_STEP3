@@ -1,0 +1,36 @@
+header{
+    width:1000px;
+    height:100px;
+    background-color:lightblue;
+    margin:0 auto;
+}
+.sidebar{
+    width:200px;
+    height:500px;
+    background-color:lightblue;
+    float:left;
+}
+main{
+    width:780px;
+    height:500px;
+    background-color:beige;
+    float:left;
+    margin-left:20px;
+}
+footer{
+    clear:both;
+    width:1000px;
+    height:100px;
+    background-color:lightblue;
+    margin:0 auto;
+}
+a{
+    color:blue;
+}
+main table{
+    margin:0 auto;
+}
+button{
+    float:right;
+}
+
