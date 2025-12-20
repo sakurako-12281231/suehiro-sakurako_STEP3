@@ -6,21 +6,26 @@
     <link rel="stylesheet" href="test.css">
 </head>
 <body>
-
-<h2>世界一甘いお店</h2>
-<table>
+ <header>
+  <h2>世界一甘いお店</h2>
+ </header>
+ <div class="sidebar">
+   サイドバー
+ </div>
+ <main>
+ <table>
     <tr>
-        <th>お名前</tr>
+        <th>お名前</th>
         <td><input type="text" style="width:40em;"></td>
     </tr>
     <tr>
-        <td>お近くのお店</td>
+        <th>お近くのお店</th>
         <td>
            <select>
-               <option>北海道</option>
-               <option>東北</option>
+               <option>北海道・東北</option>
                <option>関東</option>
                <option>中部</option>
+               <option>関西</option>
                <option>中国・四国</option>
                <option>九州・沖縄</option>
            </select> 
@@ -45,11 +50,13 @@
         <th>お問い合わせ</th>
         <td><textarea cols="30" rows="5"></textarea></td>         
      </tr>
-</table>
-
+  </table>
+ </main>
+ <footer>
+ フッター
+ </footer>
 <br>
 <button>送信</button>
 
 </body>
 </html>
-
