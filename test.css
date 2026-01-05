@@ -15,7 +15,7 @@ main{
     height:500px;
     background-color:beige;
     float:left;
-    margin-left:20px;
+    margin-left:0px;
 }
 footer{
     clear:both;
@@ -33,4 +33,9 @@ main table{
 button{
     float:right;
 }
-
+table{
+    border-collapse:collapse;
+}
+table,th,td{
+    border:4px solid black;
+}
