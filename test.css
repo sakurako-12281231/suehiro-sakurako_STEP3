@@ -2,7 +2,6 @@ header{
     width:1000px;
     height:100px;
     background-color:lightblue;
-    margin:0 auto;
 }
 .sidebar{
     width:200px;
@@ -22,7 +21,6 @@ footer{
     width:1000px;
     height:100px;
     background-color:lightblue;
-    margin:0 auto;
 }
 a{
     color:blue;
