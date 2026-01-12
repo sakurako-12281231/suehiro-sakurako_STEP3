@@ -10,11 +10,14 @@ header{
     float:left;
 }
 main{
-    width:780px;
+    width:800px;
     height:500px;
     background-color:beige;
     float:left;
     margin-left:0px;
+    display:flex;
+    justify-content:cente;
+    align-items:center;
 }
 footer{
     clear:both;
@@ -24,9 +27,6 @@ footer{
 }
 a{
     color:blue;
-}
-main table{
-    margin:0 auto;
 }
 button{
     float:right;
